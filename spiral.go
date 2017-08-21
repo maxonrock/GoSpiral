@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var n int
-	fmt.Println("Hello motherfucker! Just type a fucking number and i'll show you the spiral martix from 1 to n*n!")
+	fmt.Println("Hello! Just type a number and i'll show you the spiral martix from 1 to n*n!")
 	fmt.Scanf("%d", &n)
 	var a [][]int
 	var start int
